@@ -1,0 +1,295 @@
+=============================================================================
+
+Player Rolling...
+You rolled a 6
+Your total score is: 6
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 6
+Your total score is: 12
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 5
+Your total score is: 17
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 5
+Your total score is: 22
+Would you like to ROLL AGAIN <R> or HOLD <H>? H
+
+
+
+
+Computer Rolling...
+Computer rolled a 6
+The computer's total score is: 6
+
+Computer Rolling...
+Computer rolled a 5
+The computer's total score is: 11
+
+Computer Rolling...
+Computer rolled a 1
+Oh no, the computer rolled a 1. It loses it's turn!
+Player Rolling...
+You rolled a 1
+Oh no, you rolled a 1. Turn Lost!
+
+Computer Rolling...
+Computer rolled a 5
+The computer's total score is: 5
+
+Computer Rolling...
+Computer rolled a 3
+The computer's total score is: 8
+
+Computer Rolling...
+Computer rolled a 6
+The computer's total score is: 14
+
+Computer Rolling...
+Computer rolled a 6
+The computer's total score is: 20
+Player Rolling...
+You rolled a 2
+Your total score is: 24
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 4
+Your total score is: 28
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 2
+Your total score is: 30
+Would you like to ROLL AGAIN <R> or HOLD <H>? H
+
+
+
+
+Computer Rolling...
+Computer rolled a 6
+The computer's total score is: 26
+
+Computer Rolling...
+Computer rolled a 2
+The computer's total score is: 28
+
+Computer Rolling...
+Computer rolled a 3
+The computer's total score is: 31
+
+Computer Rolling...
+Computer rolled a 4
+The computer's total score is: 35
+
+Computer Rolling...
+Computer rolled a 1
+Oh no, the computer rolled a 1. It loses it's turn!
+Player Rolling...
+You rolled a 4
+Your total score is: 34
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 1
+Oh no, you rolled a 1. Turn Lost!
+
+Computer Rolling...
+Computer rolled a 3
+The computer's total score is: 23
+
+Computer Rolling...
+Computer rolled a 4
+The computer's total score is: 27
+
+Computer Rolling...
+Computer rolled a 5
+The computer's total score is: 32
+
+Computer Rolling...
+Computer rolled a 5
+The computer's total score is: 37
+
+Computer Rolling...
+Computer rolled a 4
+The computer's total score is: 41
+Player Rolling...
+You rolled a 3
+Your total score is: 33
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 3
+Your total score is: 36
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 6
+Your total score is: 42
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 6
+Your total score is: 48
+Would you like to ROLL AGAIN <R> or HOLD <H>? H
+
+
+
+
+Computer Rolling...
+Computer rolled a 1
+Oh no, the computer rolled a 1. It loses it's turn!
+Player Rolling...
+You rolled a 6
+Your total score is: 54
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 1
+Oh no, you rolled a 1. Turn Lost!
+
+Computer Rolling...
+Computer rolled a 4
+The computer's total score is: 45
+
+Computer Rolling...
+Computer rolled a 5
+The computer's total score is: 50
+
+Computer Rolling...
+Computer rolled a 6
+The computer's total score is: 56
+
+Computer Rolling...
+Computer rolled a 2
+The computer's total score is: 58
+
+Computer Rolling...
+Computer rolled a 2
+The computer's total score is: 60
+
+Computer Rolling...
+Computer rolled a 1
+Oh no, the computer rolled a 1. It loses it's turn!
+Player Rolling...
+You rolled a 6
+Your total score is: 54
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 4
+Your total score is: 58
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 3
+Your total score is: 61
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 4
+Your total score is: 65
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 4
+Your total score is: 69
+Would you like to ROLL AGAIN <R> or HOLD <H>? H
+
+
+
+
+Computer Rolling...
+Computer rolled a 3
+The computer's total score is: 44
+
+Computer Rolling...
+Computer rolled a 4
+The computer's total score is: 48
+
+Computer Rolling...
+Computer rolled a 2
+The computer's total score is: 50
+
+Computer Rolling...
+Computer rolled a 6
+The computer's total score is: 56
+
+Computer Rolling...
+Computer rolled a 5
+The computer's total score is: 61
+Player Rolling...
+You rolled a 6
+Your total score is: 75
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 3
+Your total score is: 78
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 5
+Your total score is: 83
+Would you like to ROLL AGAIN <R> or HOLD <H>? H
+
+
+
+
+Computer Rolling...
+Computer rolled a 4
+The computer's total score is: 65
+
+Computer Rolling...
+Computer rolled a 4
+The computer's total score is: 69
+
+Computer Rolling...
+Computer rolled a 2
+The computer's total score is: 71
+
+Computer Rolling...
+Computer rolled a 6
+The computer's total score is: 77
+
+Computer Rolling...
+Computer rolled a 4
+The computer's total score is: 81
+Player Rolling...
+You rolled a 2
+Your total score is: 85
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 5
+Your total score is: 90
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 5
+Your total score is: 95
+Would you like to ROLL AGAIN <R> or HOLD <H>? R
+
+Player Rolling...
+You rolled a 6
+Your total score is: 101
+Would you like to ROLL AGAIN <R> or HOLD <H>? H
+
+
+
+
+Computer Rolling...
+Computer rolled a 3
+The computer's total score is: 84
+
+Computer Rolling...
+Computer rolled a 1
+Oh no, the computer rolled a 1. It loses it's turn!
+
+Winner! Winner! Congratulations.
+Press any key to continue . . .

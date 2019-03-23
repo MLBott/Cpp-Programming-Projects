@@ -1,0 +1,27 @@
+==============================================================================
+
+Please enter your height : 70
+
+Please enter your weight : 180
+
+Please enter your age : 36
+
+Hat size is : 7.5
+Jacket size is : 43.8
+Waist size is : 36.0 inches
+
+Do you wish to repeat the calculations for a another measurement ? :
+Type 'Yes' or 'No' : Yes
+
+Please enter your height : 68
+
+Please enter your weight : 140
+
+Please enter your age : 27
+
+Hat size is : 6.0
+Jacket size is : 33.1
+Waist size is : 27.0 inches
+
+Do you wish to repeat the calculations for a another measurement ? :
+Type 'Yes' or 'No' :

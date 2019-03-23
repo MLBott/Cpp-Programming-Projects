@@ -1,0 +1,32 @@
+===================================================================================================================
+Entering data for a new Administrator...
+________________________________________________
+Pay to the order of Louis Watson
+The sum of 45000 Dollars
+_________________________________________________
+Check Stub NOT NEGOTIABLE
+Administrator Number : 455760132
+
+Data Entry
+
+What is the title of the Administrator :
+Seth Peterson
+
+What is the company's area of responsibility:
+Building structural safety
+
+What is the name of the Administrator's supervisor:
+Paul Davidson
+
+The Administrator's name is: Louis Watson
+The Administrator's title is: Seth Peterson
+The company's area of responsibility is: Building structural safety
+The Administrator's supervisor is: Paul Davidson
+
+________________________________________________
+Pay to the order of Louis Watson
+The sum of 45000 Dollars
+_________________________________________________
+Check Stub NOT NEGOTIABLE
+Administrator Number: 455760132
+Press any key to continue . . . 
