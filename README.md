@@ -1,2 +1,2 @@
 # undergrad-projects
-Java projects initiated 2019
+Undergrad projects initiated 2019
