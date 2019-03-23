@@ -1,7 +1,6 @@
 """
 Author: Michael Bottom
-Date: 1/28/2019
-Course: Depaul University, Winter 2019, CSC 243, Professor Mendelsohn
+Date: 1/28/2019n
 """
 
 def listOfWordsInFile(fileName, letterTarget):

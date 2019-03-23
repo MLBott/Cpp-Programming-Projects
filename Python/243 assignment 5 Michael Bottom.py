@@ -1,7 +1,6 @@
 """
 Author: Michael Bottom
 Date: 2/25/2019
-Course: Depaul University, Winter 2019, CSC 243, Professor Mendelsohn
 """
 
 def createStudentDictionary():
