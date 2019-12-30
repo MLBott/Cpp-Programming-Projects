@@ -1,4 +1,0 @@
-==============================================================
-
-Matching temperature is : -40
-Press any key to continue . . .

@@ -1,5 +1,0 @@
-======================================================================================
-
-Guess the square root of a number : 85
-The matching guess is : 57.6471
-Press any key to continue . . .
