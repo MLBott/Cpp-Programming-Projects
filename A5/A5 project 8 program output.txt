@@ -1,0 +1,15 @@
+==========================================================================
+
+Store a Kelvin temperature in Kelvins.Enter a value : 45
+
+That temperature in Kelvins is : 45
+
+Store a Fahrenheit temperature in Kelvins.Enter a value : 65
+
+That temperature in Kelvins is : 273
+
+Store a Celsius temperature in Kelvins.Enter a value : 32
+
+That temperature in Kelvins is : 305.15
+
+Press any key to continue . . .

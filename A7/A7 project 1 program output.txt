@@ -1,0 +1,24 @@
+===========================================================================================================
+
+Enter a line of text to count the words and letters contained inside :
+
+I do not like green eggs and ham.I do not like them, Sam I am.Try them, try them, and you may!Try them and 
+you may, I say.
+30 words
+9 a
+5 d
+9 e
+3 g
+5 h
+6 i
+2 k
+2 l
+9 m
+6 n
+6 o
+4 r
+3 s
+9 t
+2 u
+8 y
+Press any key to continue . . .

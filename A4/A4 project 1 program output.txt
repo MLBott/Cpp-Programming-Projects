@@ -1,0 +1,117 @@
+======================================================================================
+
+
+==== Player Management List ====
+A.Add a new player and score  <Press 'A'>
+B.Remove a player and score  <Press 'B'>
+C.Print all player names and scores to screen  <Press 'C'>
+D.Check a specific player's score  <Press 'D'>
+E.Exit  <Press 'E'>
+A
+
+Please enter the player's last name: BugsBunny
+Name saved.
+Please enter the player's score: 9000
+Score saved.
+
+==== Player Management List ====
+A.Add a new player and score  <Press 'A'>
+B.Remove a player and score  <Press 'B'>
+C.Print all player names and scores to screen  <Press 'C'>
+D.Check a specific player's score  <Press 'D'>
+E.Exit  <Press 'E'>
+A
+Position is full.
+Please enter the player's last name: DaffyDuck
+Name saved.
+Please enter the player's score: 4500
+Score saved.
+
+==== Player Management List ====
+A.Add a new player and score  <Press 'A'>
+B.Remove a player and score  <Press 'B'>
+C.Print all player names and scores to screen  <Press 'C'>
+D.Check a specific player's score  <Press 'D'>
+E.Exit  <Press 'E'>
+C
+
+BugsBunny
+9000
+DaffyDuck
+4500
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+==== Player Management List ====
+A.Add a new player and score  <Press 'A'>
+B.Remove a player and score  <Press 'B'>
+C.Print all player names and scores to screen  <Press 'C'>
+D.Check a specific player's score  <Press 'D'>
+E.Exit  <Press 'E'>
+B
+
+Please enter the player's last name: DaffyDuck
+
+
+==== Player Management List ====
+A.Add a new player and score  <Press 'A'>
+B.Remove a player and score  <Press 'B'>
+C.Print all player names and scores to screen  <Press 'C'>
+D.Check a specific player's score  <Press 'D'>
+E.Exit  <Press 'E'>
+C
+
+BugsBunny
+9000
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+==== Player Management List ====
+A.Add a new player and score  <Press 'A'>
+B.Remove a player and score  <Press 'B'>
+C.Print all player names and scores to screen  <Press 'C'>
+D.Check a specific player's score  <Press 'D'>
+E.Exit  <Press 'E'>
+D
+
+Please enter the player's last name you want to check: BugsBunny
+
+That player's score is: 9000
+==== Player Management List ====
+A.Add a new player and score  <Press 'A'>
+B.Remove a player and score  <Press 'B'>
+C.Print all player names and scores to screen  <Press 'C'>
+D.Check a specific player's score  <Press 'D'>
+E.Exit  <Press 'E'>
+E
+Press any key to continue . . .
