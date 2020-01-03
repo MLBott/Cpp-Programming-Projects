@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 03/17/2019
-Depaul University CSC 309
 Assignment 8, Part 1
 
 This program opens a source file and an output file using stream I/O, it then uses a second function that 
