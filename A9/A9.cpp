@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 03/17/2019
-Depaul University CSC 309
 
 This program derives a class from another derived class, the original being class Employee. 
 SalariedEmployee's private qualifier was changed to protected in order to access the salary 
