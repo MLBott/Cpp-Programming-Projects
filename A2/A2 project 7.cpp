@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 01/21/2019
-Depaul University CSC 309
 
 This program inputs scores on exercises from a user, for n number of exercies.
 And then calculates the total percentage score.*/
