@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 01/28/2019
-Depaul University CSC 309
 
 This program asks the user for their height, weight and age and then calculates the
 user's hat size, jacket size, and waist size using appropriate algorithms and outputs
