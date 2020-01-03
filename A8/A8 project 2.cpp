@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 03/17/2019
-Depaul University CSC 309
 Assignment 8, Part 2
 
 This program prompts the user to as a question. It then opens a file and outputs one line 
