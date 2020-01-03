@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 01/21/2019
-Depaul University CSC 309
 
 This program makes a guess at the Babylonian algorithm square root for a number n.
 It asks the user to enter a guess and then iterates through the guess with the 
