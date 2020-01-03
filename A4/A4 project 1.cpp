@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 2/4/2019
-Depaul University CSC 309
 
 This program manages a list of up to ten players and their high scores. It uses two arrays,
 one for players and one for their scores. It uses a menu in the main fuction to allow adding
