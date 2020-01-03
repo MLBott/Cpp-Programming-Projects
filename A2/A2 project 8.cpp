@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 01/21/2019
-Depaul University CSC 309
 
 This program decrements celsius temp until it equals fahrenheit at the same value.
 And then outputs the matching temp.*/
