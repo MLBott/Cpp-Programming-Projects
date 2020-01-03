@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 03/17/2019
-Depaul University CSC 309
 Assignment 7, Part 1
 
 This program asks the user to enter a line of text. It then counts the words in the line 
