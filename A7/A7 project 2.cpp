@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 03/17/2019
-Depaul University CSC 309
 Assignment 7, Part 2
 
 This program creates a class named Student, an integer named numClasses that tracks how many
