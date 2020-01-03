@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 02/11/2019
-Depaul University CSC 309
 
 This program creates a HotDogStand class with three private members to store the hot dog
 stand's ID, the hot dog store's number of hot dogs sold, and static number of hot dogs sold.
