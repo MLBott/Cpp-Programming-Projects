@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 02/11/2019
-Depaul University CSC 309
 
 This program creates a Temperature class. It has mutator functions to set the 
 private member, degrees, in Kelvin from input parameters of for Kelvin, Celsius,
