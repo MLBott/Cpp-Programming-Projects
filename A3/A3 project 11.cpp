@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 01/28/2019
-Depaul University CSC 309
 
 This program plays the game of Pig with the user and the computer as players. Each player
 takes a turn rolling the six-sided die, attempting to reach 20 without getting a die roll
