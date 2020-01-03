@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 2/4/2019
-Depaul University CSC 309
 
 This program defines a class named Money that stores a monetary amount in dollars and cents.
 It uses accessors and mutators for dollars and cents. It has a function to convert int dollars
