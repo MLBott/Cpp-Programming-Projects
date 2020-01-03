@@ -1,7 +1,5 @@
 /*
 Author: Michael Bottom
-Date: 01/28/2019
-Depaul University CSC 309
 
 This program uses a function, getHighScore, to read a text file, "scores.txt",
 and find the highest score and the player associated with that score. Those
