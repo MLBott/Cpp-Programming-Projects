@@ -23,3 +23,7 @@ Understand and be able to explain:
 > File Input/Output with Streams
 
 > Overview of the Standard Template Libraries
+
+## Tech Stack
+> C++
+> Text docs
