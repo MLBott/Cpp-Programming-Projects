@@ -1,12 +1,12 @@
 # C++ Fundamentals
 
+## Task
+Understand the fundamentals of C++.
 
 ## Output
 The repository contains work based on the topics below.
 
 ## Criteria
-Understand and be able to explain: 
-
 > Introduction to C++ programming
 
 > Pointers, Arrays, and Dynamic Allocation
