@@ -26,4 +26,3 @@ Understand and be able to explain:
 
 ## Tech Stack
 > C++
-> Text docs
