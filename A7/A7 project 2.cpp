@@ -10,148 +10,140 @@ of the necesary data, a funciton that restes the classList and number of classes
 assignment operator for assigning classes to a new copy of classList, and a class destructor. 
 There is a main function to test the above functions.*/
 
+
 #include "stdafx.h"
 #include <iostream>
-#include <cstdlib>
 #include <string>
+#include <cstdlib>
 
 using namespace std;
 
+// Student class definition
 class Student {
 public:
-	void setName(string userName);
-	string getName();
-	void setNumClasses(int userNum);
-	int getNumClasses();
-	void setClassList(int position, string className);
-	void getClassList();
-	Student();
-	~Student();
-	Student& operator =(const Student& rtSide);
+    // Public member functions
+    void setName(string userName);
+    string getName();
+    void setNumClasses(int userNum);
+    int getNumClasses();
+    void setClassList(int position, string className);
+    void getClassList();
+    Student();
+    ~Student();
+    Student& operator =(const Student& rtSide);
 
-	void userEntry();
-	void getAllClassList();
-	void resetClassList();
-
-
-
-
+    void userEntry();
+    void getAllClassList();
+    void resetClassList();
 
 private:
-	string name;
-	int numClasses;
-	string *classList;
-
+    // Private member variables
+    string name;
+    int numClasses;
+    string *classList;
 };
 
+int main() {
+    Student Sam;
+    Student Karen;
 
-int main( ) {
-	Student Sam;
-	Student Karen;
-	
-	Sam.setName("Samuel Clarke");
-	cout << Sam.getName() << endl;
-	Sam.setNumClasses(3);
-	cout << Sam.getNumClasses() << endl;
-	Sam.setClassList(0, "Algorithms");
-	Sam.setClassList(1, "Statistics");
-	Sam.setClassList(2, "Data Structures");
-	Sam.getClassList();
-	cout << endl;
-	Karen.userEntry();
-	cout << endl;
-	Karen.getClassList();
-	cout << endl;
-	Karen.getAllClassList();
-	Karen.resetClassList();
-	cout << endl;
-	Karen.getAllClassList();
+    Sam.setName("Samuel Clarke");
+    cout << Sam.getName() << endl;
+    Sam.setNumClasses(3);
+    cout << Sam.getNumClasses() << endl;
+    Sam.setClassList(0, "Algorithms");
+    Sam.setClassList(1, "Statistics");
+    Sam.setClassList(2, "Data Structures");
+    Sam.getClassList();
+    cout << endl;
+    Karen.userEntry();
+    cout << endl;
+    Karen.getClassList();
+    cout << endl;
+    Karen.getAllClassList();
+    Karen.resetClassList();
+    cout << endl;
+    Karen.getAllClassList();
 
-
-	return 0;
+    return 0;
 }
 
-
+// Student class member functions implementation
 Student::Student() : name(""), numClasses(0), classList(NULL) {
 
 }
 
-Student::~Student(void) {
-	resetClassList();
-	numClasses = 0;
-	name = "";
+Student::~Student() {
+    resetClassList();
+    numClasses = 0;
+    name = "";
 }
 
 void Student::setName(string userName) {
-	name = userName;
+    name = userName;
 }
 
 string Student::getName(){
-	return name;
+    return name;
 }
 
 void Student::setNumClasses(int userNum) {
-	numClasses = userNum;
-	classList = new string[numClasses];
+    numClasses = userNum;
+    classList = new string[numClasses];
 }
 
 int Student::getNumClasses() {
-	return numClasses;
+    return numClasses;
 }
 
 void Student::setClassList(int position, string className) {
-	int posit = position;
-	string cName = className;
-	classList[posit] = cName;
+    int posit = position;
+    string cName = className;
+    classList[posit] = cName;
 }
 
 void Student::getClassList() {
-	cout << "Course List: " << endl;
-	int i;
-	for (i = 0; i < numClasses; i++) {
-		cout << classList[i] << endl;
-	}
+    cout << "Course List: " << endl;
+    for (int i = 0; i < numClasses; i++) {
+        cout << classList[i] << endl;
+    }
 }
 
 void Student::userEntry() {
-	cout << endl << "Enter student name: " << endl;
-	getline(cin, name);
-	cout << "Enter number of classes: " << endl;
-	cin >> numClasses;
-	cin.ignore();
-	if (numClasses > 0) {
-		classList = new string[numClasses];
-		int i;
-		for (i = 0; i < numClasses; i++) {
-			cout << "Enter the name of class " << (i + 1) << " : ";
-			getline(cin, classList[i]);
-		}
-	}
-
+    cout << endl << "Enter student name: " << endl;
+    getline(cin, name);
+    cout << "Enter number of classes: " << endl;
+    cin >> numClasses;
+    cin.ignore();
+    if (numClasses > 0) {
+        classList = new string[numClasses];
+        for (int i = 0; i < numClasses; i++) {
+            cout << "Enter the name of class " << (i + 1) << " : ";
+            getline(cin, classList[i]);
+        }
+    }
 }
 
 void Student::getAllClassList() {
-	cout << endl << name << "'s" << " Course List: " << endl;
-	int i;
-	for (i = 0; i < numClasses; i++) {
-		cout << classList[i] << endl;
-	}
+    cout << endl << name << "'s" << " Course List: " << endl;
+    for (int i = 0; i < numClasses; i++) {
+        cout << classList[i] << endl;
+    }
 }
 
 void Student::resetClassList() {
-	numClasses = 0;
-	delete[] classList;
+    numClasses = 0;
+    delete[] classList;
 }
 
 Student& Student::operator =(const Student& rtSide) {
-	numClasses = rtSide.numClasses;
-	if (numClasses > 0) {
-		classList = new string[numClasses];
-		int i;
-		for (i = 0; i < numClasses; i++) {
-			classList[i] = rtSide.classList[i];
-		}
-	}
-	return *this;
+    numClasses = rtSide.numClasses;
+    if (numClasses > 0) {
+        classList = new string[numClasses];
+        for (int i = 0; i < numClasses; i++) {
+            classList[i] = rtSide.classList[i];
+        }
+    }
+    return *this;
 }
 
