@@ -1,4 +1,4 @@
-# C++ - Simple Programs
+# C++ - Assorted Programs
 
 ## Task
 Understand the fundamentals of C++.
