@@ -1,4 +1,4 @@
-# C++ Fundamentals
+# C++ - Simple Programs
 
 ## Task
 Understand the fundamentals of C++.
